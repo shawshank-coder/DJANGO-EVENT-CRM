@@ -2,9 +2,13 @@
 An event booking and review CRM
 
 GET /api/v1/users/  - Get all users
+
 POST /api/v1/users/  - Create a new user
+
 GET  /api/v1/users/:userid - Get user by id
+
 PUT  /api/v1/users/:userid - Update user by id
+
 DELETE  /api/v1/users/:userid - Delete User by id
 
 GET /api/v1/events/  - Get all events
